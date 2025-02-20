@@ -18,12 +18,14 @@ export default function Home() {
                     <Image src={minecraft || "/placeholder.svg"} alt="minecraft-title" priority/>
                     <div className="flex flex-col gap-4">
                         <Link href="/stats" className="btn">
-                            Stats
+                            Statistiken
                         </Link>
                         <Link href="/leaderboard" className="btn">
                             Leaderboard
                         </Link>
-                        <button className="btn">Credits</button>
+                        <Link href="/credits" className="btn">
+                            Credits
+                        </Link>
                     </div>
                 </div>
             </div>
