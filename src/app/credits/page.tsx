@@ -38,7 +38,7 @@ export default function Credits() {
                             <h2 className="text-xl sm:text-2xl font-semibold mb-3 sm:mb-4">Hallo, ich bin Maggus!</h2>
                             <p className="mb-4 text-sm sm:text-base">
                                 Hey, ich bin ein leidenschaftlicher Webentwickler und liebe es, coole und interaktive Sachen im Web zu
-                                bauen. 🚀 Mit Technologien wie React, Next.js und TypeScript kenne ich mich bestens aus.
+                                bauen. 🚀 Mit Technologien wie React, Next.js und TypeScript kenne ich mich bestens aus. Und Grüße and BigLawie...
                             </p>
                             <div className="flex gap-4 justify-center sm:justify-start">
                                 <a
